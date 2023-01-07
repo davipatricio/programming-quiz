@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'JetBrains Mono', monospace;
+}
+
+.center {
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.main-card {
+	display: flex;
+ 	min-height: 100vh;
+}
+
+.card-content {
+	width: 450px;
+	height: 100%;
+	border: 1px solid #ccc;
+	padding: 1rem;
+	border-radius: 5px;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+.card-content h1 {
+	padding: 4px;
+}
+
+.card-content p {
+	padding: 4px;
+	padding-bottom: 8px;
+}
+
+.card-content .button {
+	padding: 4px;
+}
+
+.answer-button {
+	margin: 2px;
+	margin-top: 10px;
+}
+
+.card-content .answer-buttons {
+	display: flex;
+	flex-direction: row;
+}
+
+.card-content button {
+	text-align: center;
+	width: 115px;
+	height: 40px;
+	font-size: 10px;
+	color:#fff;
+	border-radius: 95px;
+	border-style: solid;
+	border-color: #ccc;
+	background-color: #000;
+	cursor: pointer;
+}
+
+.card-content button.restart-button {
+	margin-top: 10px;
+	text-align: center;
+	width: 115px;
+	height: 55px;
+	color:#fff;
+	border-radius: 95px;
+	border-style: solid;
+	border-color: #ccc;
+	background-color: #000;
+	cursor: pointer;
+}

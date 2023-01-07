@@ -1,0 +1,301 @@
+[
+	{
+		"title": "Quem criou o kernel Linux?",
+		"alternatives": [
+			"Bill Gates",
+			"Larry Page",
+			"Richard Stallman",
+			"Linus Torvalds"
+		],
+		"correctAnswer": "Linus Torvalds"
+	},
+	{
+		"title": "Qual a empresa dona do Android?",
+		"alternatives": [
+			"Google",
+			"Amazon",
+			"Microsoft",
+			"Samsung"
+		],
+		"correctAnswer": "Google"
+	},
+	{
+		"title": "Quem criou a linguagem de programação Pyhon?",
+		"alternatives": [
+			"Guido van Rossum",
+			"Sergey Brin",
+			"Mark Zuckerberg",
+			"Aaron Swartz"
+		],
+		"correctAnswer": "Guido van Rossum"
+	},
+	{
+		"title": "Quem é o criador da Amazon?",
+		"alternatives": [
+			"Elon Musk",
+			"Jeff Bezos",
+			"Sundar Pichai",
+			"Satya Nadella"
+		]
+	},
+	{
+		"title": "Quem é o atual CEO da Microsoft?",
+		"alternatives": [
+			"Bill Gates",
+			"Tim Cook",
+			"Satya Nadella",
+			"Mark Zuckerberg"
+		],
+		"correctAnswer": "Satya Nadella"
+	},
+	{
+		"title": "Geralmente, em qual linguagem de programação sistemas operacionais são feitos?",
+		"alternatives": [
+			"Java",
+			"C",
+			"Python",
+			"JavaScript"
+		],
+		"correctAnswer": "C"
+	},
+	{
+		"title": "Onde a linguagem de programação Lua foi criada?",
+		"alternatives": [
+			"Brasil",
+			"Portugal",
+			"Estados Unidos",
+			"Japão"
+		],
+		"correctAnswer": "Brasil"
+	},
+	{
+		"title": "Qual serviço a seguir não usa React em seu site?",
+		"alternatives": [
+			"Discord",
+			"Netflix",
+			"Twitter",
+			"Spotify"
+		],
+		"correctAnswer": "YouTube"
+	},
+	{
+		"title": "O que significa o termo \"open source\"?",
+		"alternatives": [
+			"O código fonte é aberto",
+			"O código fonte é fechado",
+			"O código fonte é gratuito",
+			"O código fonte é pago"
+		],
+		"correctAnswer": "O código fonte é aberto"
+	},
+	{
+		"title": "Qual a linguagem de programação mais usada no mundo?",
+		"alternatives": [
+			"Java",
+			"Python",
+			"C",
+			"JavaScript"
+		],
+		"correctAnswer": "JavaScript"
+	},
+	{
+		"title": "Quando a primeira versão do kernel Linux foi lançada?",
+		"alternatives": [
+			"1991",
+			"1992",
+			"1993",
+			"1994"
+		],
+		"correctAnswer": "1991"
+	},
+	{
+		"title": "Qual a distribuição Linux mais popular?",
+		"alternatives": [
+			"Ubuntu",
+			"Debian",
+			"Arch Linux",
+			"Linux Mint"
+		],
+		"correctAnswer": "Ubuntu"
+	},
+	{
+		"title": "Quais destas IDEs não pertencem à JetBrains?",
+		"alternatives": [
+			"IntelliJ IDEA",
+			"PyCharm",
+			"WebStorm",
+			"Visual Studio"
+		],
+		"correctAnswer": "Visual Studio"
+	},
+	{
+		"title": "O que significa CSS?",
+		"alternatives": [
+			"Computer Software System",
+			"Cascading Style Sheets",
+			"Cascading Sheets of Style",
+			"Computer Science School"
+		],
+		"correctAnswer": "Cascading Style Sheets"
+	},
+	{
+		"title": "Geralmente, as pessoas confudem HTML como uma...",
+		"alternatives": [
+			"Linguagem de programação",
+			"IDE",
+			"Framework",
+			"Linguagem de marcação"
+		],
+		"correctAnswer": "Linguagem de programação"
+	},
+	{
+		"title": "O que são WebSockets?",
+		"alternatives": [
+			"Um protocolo de comunicação",
+			"Um framework",
+			"Um sistema operacional",
+			"Uma linguagem de programação"
+		],
+		"correctAnswer": "Um protocolo de comunicação"
+	},
+	{
+		"title": "Qual empresa criou o React.js?",
+		"alternatives": [
+			"Google",
+			"Facebook",
+			"Microsoft",
+			"HTML"
+		],
+		"correctAnswer": "Facebook"
+	},
+	{
+		"title": "Quem recentemente fez a aquisição do GitHub?",
+		"alternatives": [
+			"Microsoft",
+			"Windows",
+			"Facebook",
+			"Amazon"
+		],
+		"correctAnswer": "Microsoft"
+	},
+	{
+		"title": "Qual a empresa que desenvolve e mantém o Go?",
+		"alternatives": [
+			"Google",
+			"Spotify",
+			"GoPro",
+			"The Linux Foundation"
+		],
+		"correctAnswer": "Google"
+	},
+	{
+		"title": "Como importar uma fonte dentro de um arquivo CSS?",
+		"alternatives": [
+			"@import",
+			"@font",
+			"@font-face",
+			"@font-import"
+		],
+		"correctAnswer": "@import"
+	},
+	{
+		"title": "Como definir a espessura de uma fonte no CSS?",
+		"alternatives": [
+			"font-weight",
+			"font-size",
+			"font-family",
+			"font-style"
+		],
+		"correctAnswer": "font-weight"
+	},
+	{
+		"title": "Quais destas tags não existem no HTML?",
+		"alternatives": [
+			"<div>",
+			"<paragraph>",
+			"<p>",
+			"<img>"
+		],
+		"correctAnswer": "<paragraph>"
+	},
+	{
+		"title": "Qual tag HTML permite a inserção de JavaScript?",
+		"alternatives": [
+			"<script>",
+			"<javascript>",
+			"<js>",
+			"<scripting>"
+		],
+		"correctAnswer": "<script>"
+	},
+	{
+		"title": "Qual tag HTML permite a inserção de imagens?",
+		"alternatives": [
+			"<img>",
+			"<image>",
+			"<picture>",
+			"<imgsrc>"
+		],
+		"correctAnswer": "<img>"
+	},
+	{
+		"title": "O que significa padding?",
+		"alternatives": [
+			"Espaçamento interno",
+			"Espaçamento externo",
+			"Espaçamento entre elementos",
+			"Espaçamento entre linhas"
+		],
+		"correctAnswer": "Espaçamento interno"
+	},
+	{
+		"title": "O que significa margin?",
+		"alternatives": [
+			"Espaçamento interno",
+			"Espaçamento externo",
+			"Espaçamento entre elementos",
+			"Espaçamento entre linhas"
+		],
+		"correctAnswer": "Espaçamento externo"
+	},
+	{
+		"title": "Qual a propriedade CSS que permite a mudança da cor de um texto?",
+		"alternatives": [
+			"color",
+			"font-color",
+			"text-color",
+			"text-decoration"
+		],
+		"correctAnswer": "color"
+	},
+	{
+		"title": "Qual a empresa que desenvolve o Visual Studio Code?",
+		"alternatives": [
+			"Microsoft",
+			"Bing",
+			"Sublime Text",
+			"OpenJS Foundation"
+		],
+		"correctAnswer": "Microsoft"
+	},
+	{
+		"title": "Como é o formato do fechamento de uma tag HTML?",
+		"alternatives": [
+			"<tag>",
+			"<tag/>",
+			"</tag>",
+			"<tag></tag>"
+		],
+		"correctAnswer": "</tag>"
+	},
+	{
+		"title": "Qual das seguintes tags HTML é usada para adicionar um link a uma página?",
+		"alternatives": [
+			"<a>",
+			"<link>",
+			"<href>",
+			"<url>"
+		],
+		"correctAnswer": "<a>"
+	}
+]
